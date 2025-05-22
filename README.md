@@ -5,18 +5,6 @@
 - 📫 How to reach me ? (⌐■_■) no reach me ...
 - 😄 Pronouns: ┐(￣ ヘ￣)┌ ...
 - ⚡ Fun fact: (╯°□°）╯ I'm not funny  ...
-  
-███████╗██╗  ██╗███████╗██╗███╗   ██╗
-
-╚══███╔╝██║  ██║██╔════╝██║████╗  ██║
-
-  ███╔╝ ███████║█████╗  ██║██╔██╗ ██║
-  
- ███╔╝  ██╔══██║██╔══╝  ██║██║╚██╗██║
- 
-███████╗██║  ██║███████╗██║██║ ╚████║
-
-╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝
 
 <!---
 zhei-n/zhei-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
